@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent > div:nth-child(2) {
+    color: red;
+    font-weight: bold;
+}
